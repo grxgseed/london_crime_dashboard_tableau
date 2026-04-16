@@ -36,6 +36,11 @@ This project presents an interactive Tableau dashboard analysing borough-level c
 View the interactive dashboard here:
 https://public.tableau.com/app/profile/greg.seed/viz/london-crime-dashboard/Dashboard1
 
+## Preview
+
+<img width="1487" height="669" alt="image" src="https://github.com/user-attachments/assets/3a92947f-24e3-43e6-9c6d-fd7ce35be4f2" />
+<img width="1487" height="669" alt="image" src="https://github.com/user-attachments/assets/6141261e-500d-4fe4-9edd-abee7f096774" />
+
 ## Data Source
 
 The dataset used is **"MPS Borough Level Crime (most recent 24 months)"**, obtained from the London Datastore.
